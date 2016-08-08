@@ -6,7 +6,7 @@ Quais os topicos serão abordados?
 
 - O que para de funcionar com a mudança do PHP 5.3 para o 5.6
 - Quais as melhorias entre as versões
-- Qual SO é vai eficaz em aspecto de segurança, performance e compatibilidade com PHP
+- Qual SO é mais eficaz em aspecto de segurança, performance e compatibilidade com PHP
 
 Docker
 ------
